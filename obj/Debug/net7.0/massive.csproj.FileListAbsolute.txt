@@ -1,0 +1,14 @@
+C:\Users\Evgenii\Desktop\Прогаем C#\massive\bin\Debug\net7.0\massive.exe
+C:\Users\Evgenii\Desktop\Прогаем C#\massive\bin\Debug\net7.0\massive.deps.json
+C:\Users\Evgenii\Desktop\Прогаем C#\massive\bin\Debug\net7.0\massive.runtimeconfig.json
+C:\Users\Evgenii\Desktop\Прогаем C#\massive\bin\Debug\net7.0\massive.dll
+C:\Users\Evgenii\Desktop\Прогаем C#\massive\bin\Debug\net7.0\massive.pdb
+C:\Users\Evgenii\Desktop\Прогаем C#\massive\obj\Debug\net7.0\massive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evgenii\Desktop\Прогаем C#\massive\obj\Debug\net7.0\massive.AssemblyInfoInputs.cache
+C:\Users\Evgenii\Desktop\Прогаем C#\massive\obj\Debug\net7.0\massive.AssemblyInfo.cs
+C:\Users\Evgenii\Desktop\Прогаем C#\massive\obj\Debug\net7.0\massive.csproj.CoreCompileInputs.cache
+C:\Users\Evgenii\Desktop\Прогаем C#\massive\obj\Debug\net7.0\massive.dll
+C:\Users\Evgenii\Desktop\Прогаем C#\massive\obj\Debug\net7.0\refint\massive.dll
+C:\Users\Evgenii\Desktop\Прогаем C#\massive\obj\Debug\net7.0\massive.pdb
+C:\Users\Evgenii\Desktop\Прогаем C#\massive\obj\Debug\net7.0\massive.genruntimeconfig.cache
+C:\Users\Evgenii\Desktop\Прогаем C#\massive\obj\Debug\net7.0\ref\massive.dll
